@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vue**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **sumeyyekarakullukcu34@gmail.com**
 
